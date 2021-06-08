@@ -35,7 +35,7 @@ To view/modify the files from this repository, install KiCAD from: [https://kica
 
 ## Schematics
 
-![](https://github.com/dhairyashah1/pcb-design-ESP32-S2/blob/main/assets/schematics/USBee32-S2_Schematics.png)
+![](https://github.com/Sakshi-0311/pcb-design-ESP32-S2-1/blob/main/assets/schematics/Schematics.PNG)
 
 ## Plots
 
